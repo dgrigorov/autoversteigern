@@ -1,4 +1,4 @@
-# CoreUI Free Vue Bootstrap Admin Template
+# Autoversteigern Project
 
 [![NPM][npm-coreui-vue-badge-latest]][npm-coreui-vue]
 [![Vue](https://img.shields.io/badge/Vue-^2.6.11-brightgreen.svg?style=flat-square)][coreui]
