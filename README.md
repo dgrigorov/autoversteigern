@@ -7,8 +7,6 @@
 [npm-coreui-vue-badge-latest]: https://img.shields.io/npm/v/@coreui/vue/latest?style=flat-square&color=brightgreen  
 [coreui]: https://coreui.io/vue
 
-![Template](https://coreui.io/images/github/vue-free-template-3.gif)
-
 ### Table of Contents
 
 - [Installation](#installation)
