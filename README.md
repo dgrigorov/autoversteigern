@@ -27,9 +27,9 @@ $ ssh-keygen -t ed25519 -C "your_email@example.com"
 3. When you're prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
 
 ``` bash
-> Enter a file in which to save the key (/c/Users/you/.ssh/id_ed25519):[Press enter]
+> Enter a file in which to save the key (/c/Users/<your_username>/.ssh/id_ed25519):[Press enter]
 ```
-4.At the prompt, type a secure passphrase. For easy work leave empty (click Enter)
+4.At the prompt, type a secure passphrase. **For easy work leave empty (click Enter)**
 
 ``` bash
 > Enter passphrase (empty for no passphrase): [Type a passphrase]
