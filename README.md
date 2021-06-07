@@ -1,12 +1,7 @@
 # CoreUI Free Vue Bootstrap Admin Template
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%20Vue%20Admin%20Template%20&url=http://coreui.io/vue/&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
 [![NPM][npm-coreui-vue-badge-latest]][npm-coreui-vue]
-[![Downloads](https://img.shields.io/npm/dm/@coreui/vue.svg?style=flat-square)][coreui]
 [![Vue](https://img.shields.io/badge/Vue-^2.6.11-brightgreen.svg?style=flat-square)][coreui]
-
-[![Project check](https://github.com/coreui/coreui-free-vue-admin-template/actions/workflows/project-check.yml/badge.svg)](https://github.com/coreui/coreui-free-vue-admin-template/actions/workflows/project-check.yml)
-[![Daily project check](https://github.com/coreui/coreui-free-vue-admin-template/actions/workflows/daily-project-check.yml/badge.svg)](https://github.com/coreui/coreui-free-vue-admin-template/actions/workflows/daily-project-check.yml)
 
 [npm-coreui-vue]: https://www.npmjs.com/package/@coreui/vue
 [npm-coreui-vue-badge-latest]: https://img.shields.io/npm/v/@coreui/vue/latest?style=flat-square&color=brightgreen  
@@ -18,18 +13,11 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Versioning](#versioning)
-- [Our other products](#our-other-products)
-- [Community](#community)
-- [Community Projects](#community-projects)
-- [License](#copyright-and-license)
-- [Support CoreUI Development](#support-coreui-development)
+- [UI Documentation](#ui-documentation)
 
 ### Installation
 
-#### Add SSH Key
+#### 1. Add SSH Key
 1. Open Git Bash.
 2. Paste the text below, substituting in your GitHub email address.
 
@@ -61,7 +49,7 @@ $ ssh-keygen -t ed25519 -C "your_email@example.com"
 15. If prompted, confirm your GitHub password.
 
 
-#### Clone repo
+#### 2. Clone repo
 
 ``` bash
 # clone the repo
